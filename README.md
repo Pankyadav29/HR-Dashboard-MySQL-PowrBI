@@ -1,4 +1,4 @@
-# HR-Dashboard-MySQL-PowrBI
+# HR-Dashboard-MySQL-PowerBI
 HR Dashboard with MySQL and PowerBI
 
 # Data Used
